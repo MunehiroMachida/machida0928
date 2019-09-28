@@ -2,6 +2,7 @@ body {
     width: 100vw;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: #F5F5F5;
+    list-style: none;
 }
 
 /* ここからヘッダー */
@@ -85,6 +86,7 @@ body {
     padding-left: 2vw;
     color: rgb(57, 120, 179);
     display: flex;
+    align-items: center;
 }
 
 .news-date a {
